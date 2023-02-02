@@ -27,5 +27,5 @@ jobs:
       - name: Deploy Environment
         run: vapor deploy production
         env:
-          VAPOR_TDR_TOKEN: ${{ secrets.VAPOR_TDR_TOKEN }}
+          VAPOR_API_TOKEN: ${{ secrets.VAPOR_API_TOKEN }}
 
