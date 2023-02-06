@@ -206,7 +206,7 @@
               <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                   <div id="logo">
                       <img
-                          src="{{ @asset('tdr_logo_20200716.svg') }}"
+                          src="{{ @asset('assets/images/tdr_logo_20200716.svg') }}"
                           alt="TheDirectorsRoom.com svg image"
                       />
                   </div>
