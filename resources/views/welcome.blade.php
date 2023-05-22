@@ -110,7 +110,7 @@
 
             body {
                 font-family: 'Nunito';
-                background: rgba(0, 0, 0, .88) url({{ @asset('assets/images/floatingHandChalkTransparent.png')}}) no-repeat;
+                background: rgba(0, 0, 0, .88) url({{ @asset('assets/images/floatingHandChalkTransparent1.png')}}) no-repeat;
                 background-size: 100vw ;
                 background-position-y: 100px;
             }
